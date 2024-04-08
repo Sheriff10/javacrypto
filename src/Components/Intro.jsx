@@ -7,7 +7,7 @@ export default function Intro() {
             <Container>
                 <div className="grid lg:grid-cols-2 items-center py-32 min-h-[90vh]">
                     <div className="text-wrap z-10   bg-opacity-10 py-10 backdrop-blur-sm">
-                        <span className='text-6xl lg:text-8xl font-extrabold'>
+                        <span className='text-6xl 0lg:text-8xl font-extrabold'>
                             Meet Your <span className='text-grad'>Personal </span>
                             Cook AI
                         </span>
@@ -18,7 +18,9 @@ export default function Intro() {
                         </div>
 
                         <div className="btn-wrap">
-                            <button className='bg-grad rounded-3xl p-2 px-3 lg:min-w-[200px] text-white font-medium'>Join Java Community</button>
+                            <a href="https://t.me/+hzRXIh3QHTU4NmRk">
+                                <button className='bg-grad rounded-3xl p-2 px-3 lg:min-w-[200px] text-white font-medium'>Join Java Community</button>
+                            </a>
                         </div>
                     </div>
 
