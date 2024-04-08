@@ -20,7 +20,9 @@ export default function Tokenomics() {
                         <div className="text-wrap my-3 text-2xl lg:text-4xl font-extrabold">
                             <span>Tokenomics Of Java</span>
                         </div>
-                        <span className='text-sm'> Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae officiis earum possimus facilis nostrum magnam.</span>
+                        <span className='text-sm'>
+                            $Java's tokenomics promote long-term value and participation, fostering growth.
+                        </span>
                     </div>
 
                     <div className="text-wrap text-lg leading-10 mt-10">

@@ -6,6 +6,7 @@ import About from '../Components/About'
 import Tokenomics from '../Components/Tokenomics'
 import Footer from '../Components/Footer'
 import Roadmap from '../Components/Roadmap'
+import TradeBot from '../Components/TradeBot'
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <Intro />
       <Card />
       <About />
+      <TradeBot />
       <Tokenomics />
       <Roadmap />
       <Footer />

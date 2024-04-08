@@ -14,10 +14,10 @@ export default function Footer() {
                             </div>
                         </div>
                         <div className="socials flex  gap-3 w-full lg:w-auto justify-center text-2xl text-white">
-                            <a href="#" target={"_blank"} rel="noreferrer">
+                            <a href="https://t.me/+hzRXIh3QHTU4NmRk" target={"_blank"} rel="noreferrer">
                                 <FaTelegram />
                             </a>
-                            <a href="#" target={"_blank"} rel="noreferrer">
+                            <a href="https://x.com/java_on_sol?s=21&t=mZeiR7-jY4k3LERm1awlig" target={"_blank"} rel="noreferrer">
                                 <FaTwitter />
                             </a>
                         </div>
